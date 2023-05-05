@@ -113,6 +113,7 @@ dfn {
  * contexts in Firefox 4+, Safari, and Chrome.
  */
 h1 {
+  font-family: 'Google Sans', sans-serif;
   font-size: 2em;
   margin: 0.67em 0; }
 
