@@ -4,7 +4,8 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@import url("https://fonts.googleapis.com/css2?family=Thasadith:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro");
+
 html {
   font-family: sans-serif;
   /* 1 */
@@ -571,9 +572,10 @@ th {
   box-sizing: border-box; }
 
 html {
-  font-family: "Thasadith", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.50; }
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.58;
+  letter-spacing: -.003em;}
 
 body {
   padding: 0;
